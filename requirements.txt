@@ -1,0 +1,4 @@
+sklearn >= 0.19
+gensim==0.12.3
+numpy==1.13.1
+pandas==0.19.2
