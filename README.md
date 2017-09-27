@@ -32,3 +32,20 @@ Here is a [list of data sets](https://www.analyticsvidhya.com/blog/2016/10/17-ul
 
 Also if you want to practice more I recommend using [Kaggle.com](https://www.kaggle.com/) They host competitions with real life data sets that you can try your skills at.
 
+## TODO
+
+Project initially built for the Data Science U Club
+
+Goals:
+* Real life problem with data science
+
+Parameters:
+* Some but not all have experience coding/scripting
+* 1 hour
+* Workshop with a dataset and python and R scripts
+
+TODO:
+* Select a Dataset
+* Select an analysis to perform
+* Write a Python script that does the hard stuff
+* Set out with a couple more improvements to perform on the dataset
